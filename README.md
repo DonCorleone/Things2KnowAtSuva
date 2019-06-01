@@ -1,5 +1,4 @@
-# Things2KnowAtSuva
-# Dinge zum Lernen
+# Things 2Know @ Suva
 
 ## Technologie
 
@@ -9,6 +8,7 @@
 
 * angular elements [angular.io](https://angular.io/guide/elements)
 * custom elements [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+* NGConf 2019 : Web Components with Angular Elements: Beyond the Basics | Manfred Steyer[youtube.com](https://www.youtube.com/watch?v=E9i3YBFxSSE&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=10)
 
 #### Protractor (End2End Testing)
 
@@ -37,11 +37,34 @@
 
 * selenium [seleniumhq.org](https://www.seleniumhq.org/)
 * wikipedia [en.wikipedia.org/wiki/Selenium_(software)](https://en.wikipedia.org/wiki/Selenium_(software))
+* Cypress [cypress.io](https://www.cypress.io/?__s=anr4opxejyxhvmp4dvww&utm_source=drip&utm_medium=email&utm_campaign=Quick+Tip+Friday&utm_content=%5BQuick+Tip+Friday%5D+a+tool+to+save+your+app+from+destroying+itself)
+
+### NitroNet (ASP.NET View Engine)
+
+* NitroNet Home [nitronet.io](http://www.nitronet.io/en)
+* Source NitroNet [github.com](https://github.com/namics/NitroNet)
+* Source NitroNetSiteCore [github.com](https://github.com/namics/NitroNetSitecore)
+* Handlebars [handlebarsjs.com](http://handlebarsjs.com/)
+* Docs Nitro [github.com](https://github.com/namics/generator-nitro/blob/master/packages/project-nitro/project/docs/nitro.md)
+* TerrficNet [github.com](https://github.com/namics/TerrificNet)
+
+### Deployment
+
+* Octopus [octopus.com](https://octopus.com/)
+
 ## SCRUM
+
+* Bi-weekly Sprints
+* Monthly Releases
 
 ### Jira
 
 ### Safe
+
+### Team Collaboration Software
+
+* Confluence [atlassian.com/software/confluence](
+https://www.atlassian.com/software/confluence)
 
 ## Fachlichkeit
 
