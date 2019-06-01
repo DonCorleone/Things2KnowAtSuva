@@ -8,7 +8,7 @@
 
 * angular elements [angular.io](https://angular.io/guide/elements)
 * custom elements [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
-* NGConf 2019 : Web Components with Angular Elements: Beyond the Basics | Manfred Steyer[youtube.com](https://www.youtube.com/watch?v=E9i3YBFxSSE&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=10)
+* NGConf 2019 : Web Components with Angular Elements: Beyond the Basics | Manfred Steyer [youtube.com](https://www.youtube.com/watch?v=E9i3YBFxSSE&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=10)
 
 #### Protractor (End2End Testing)
 
